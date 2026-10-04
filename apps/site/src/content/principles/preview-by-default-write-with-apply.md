@@ -11,7 +11,7 @@ updated: 2026-10-04
 order: 7
 useWhen: A command creates, changes, or deletes files, remote state, or published output.
 tradeoff: Each command must keep two correct paths, the preview and the apply.
-lineage: Plan and apply workflow (Terraform); dry-run flags in package managers.
+lineage: Skills CLI grammar (bin-creator skill and the Ruby program design guide); plan and apply workflow (Terraform).
 ---
 
 ## Rule
