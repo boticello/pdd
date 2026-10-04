@@ -26,9 +26,9 @@ accepted-risk catalog entry received a permanently red build. This fork
 fixes it: the config file stays out of citation scanning, the setting
 accepts a bare or a pinned token, and a stale pin reports PDD203.
 
-The fix is self-contained in `packages/cli/`. Offer it to upstream as a
-pull request. Lead with the reproduction: a minimal repository with the
-feature enabled and every marker pinned still fails.
+Offered upstream as [Principle-Driven/pdd#1](https://github.com/Principle-Driven/pdd/pull/1)
+from the `fix/accepted-risk-enforcement` branch. Until it merges, this
+fork carries the fix.
 
 ## Shared principle family policy
 
